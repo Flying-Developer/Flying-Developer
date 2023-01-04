@@ -18,10 +18,6 @@
 </div>
 <div>
  <h3>Algorithm</h3>
- <img src="http://mazandi.herokuapp.com/api?handle=kopasd99&theme=warm"/>
- <div>
-<img src="https://solved.ac/kopasd99"/></div>
- <img src="http://mazassumnida.wtf/api/generate_badge?boj=kopasd99"/>
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99"/>
-
+ <img src="http://mazandi.herokuapp.com/api?handle=kopasd99&theme=dark"/>
 </div>
