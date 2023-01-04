@@ -22,7 +22,6 @@
  <div>
 <img src="https://solved.ac/kopasd99"/></div>
  <img src="http://mazassumnida.wtf/api/generate_badge?boj=kopasd99"/>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kopasd99)](https://solved.ac/kopasd99)<br/>
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99/>
 
 </div>
