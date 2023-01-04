@@ -22,6 +22,6 @@
  <div>
 <img src="https://solved.ac/kopasd99"/></div>
  <img src="http://mazassumnida.wtf/api/generate_badge?boj=kopasd99"/>
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99/>
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99"/>
 
 </div>
