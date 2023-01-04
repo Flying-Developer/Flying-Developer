@@ -20,6 +20,5 @@
  <h3>Algorithm</h3>
  <img src="http://mazandi.herokuapp.com/api?handle=kopasd99&theme=warm"/>
  <div>
-[![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99)](https://solved.ac/kopasd99)</div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99)](https://solved.ac/kopasd99)"/></div>
 </div>
