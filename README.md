@@ -1,7 +1,8 @@
 <h1>About Me</h1>
 <div>
- <img src="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4style=flat-square&logo=notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=notion&logoColor=white"/>
 </div>
+
 <h1>skills</h1>
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
