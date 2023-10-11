@@ -2,7 +2,7 @@
 <div>
  <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
   Note
-  <div Note style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?&logo=Notion&logoColor=white"/>
  </a>
 </div>
 
