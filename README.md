@@ -76,6 +76,8 @@
  </div>
  <div>
   <h3>Algorithm</h3>
+  <a href="https://solved.ac/profile/kopasd99" target="_black">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99"/>
- </div>
+  </a>
+  </div>
 </div>
