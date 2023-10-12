@@ -14,9 +14,8 @@
  <a href="https://open.kakao.com/o/sUnl2hMf">
      <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=white&logo=KakaoTalk"> 
  </a>
- <a href="https://www.instagram.com/kwonbi_">
      <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=WeChat&logoColor=white"> 
- </a>
+ : kopan99
 </div>
 
 <h1>skills</h1>
