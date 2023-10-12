@@ -15,7 +15,8 @@
       <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=white&logo=KakaoTalk"> 
   </a>
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=WeChat&logoColor=white"> 
-  
+   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
+ api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
 </div>
 
 <h1>skills</h1>
