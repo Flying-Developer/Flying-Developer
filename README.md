@@ -20,7 +20,7 @@
   <a href="https://open.kakao.com/o/sUnl2hMf">
       <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=white&logo=KakaoTalk"> 
   </a>
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=WeChat&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kopan99-07C160?style=for-the-badge&logo=WeChat&logoColor=white"> 
  </div>
  
  <h1>skills</h1>
@@ -44,20 +44,20 @@
  <div>
   <h3>Backend</h3>
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Notion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Notion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   </a>
  </div>
  
  <div>
   <h3>Altificial Intelligence</h3>
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/CNN-CC0000?style=for-the-badge&logo=Notion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CNN-CC0000?style=for-the-badge&logo=CNN&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=Notion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"/>
   </a>
  </div>
  <div>
