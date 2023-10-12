@@ -1,4 +1,3 @@
-<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?
 type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
@@ -6,6 +5,8 @@ type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 &center=false&vCenter=false&multiline=true&repeat=true&width=1000
 &height=100&lines=Welcome+to+HyoJa-Dan's+GitHub!👋)](https://git.io/typing-svg)
+
+<div align=center>
 
  <h1>About Me</h1>
  <h3>Note</h3>
