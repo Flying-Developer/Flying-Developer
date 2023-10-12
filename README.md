@@ -40,6 +40,16 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=Remix&logoColor=white"/>
  </div>
+
+ <div>
+  <h3>Backend</h3>
+  <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
+ </div>
  
  <div>
   <h3>Altificial Intelligence</h3>
@@ -48,9 +58,6 @@
   </a>
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=Notion&logoColor=white"/>
-  </a>
-  <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/CNN-CC0000?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
  </div>
  <div>
