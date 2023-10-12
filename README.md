@@ -49,6 +49,9 @@
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/CNN-CC0000?style=for-the-badge&logo=CNN&logoColor=white"/>
   </a>
+   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
+   <img src="https://img.shields.io/badge/VGGNet-CC0000?style=for-the-badge&logo=CNN&logoColor=white"/>
+  </a>
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"/>
   </a>
