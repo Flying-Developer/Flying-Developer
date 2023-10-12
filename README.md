@@ -7,7 +7,7 @@
 <h3>Note</h3>
 <div style="display:flex; flex-direction:row;">
  <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
  </a>
 </div>
 
