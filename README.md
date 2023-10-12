@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=white&logo=KakaoTalk"> 
  </a>
      <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=WeChat&logoColor=white"> 
- : kopan99
+ : kopan99 </img>
 </div>
 
 <h1>skills</h1>
