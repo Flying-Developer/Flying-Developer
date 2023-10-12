@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/kopan99-07C160?style=for-the-badge&logo=WeChat&logoColor=white"> 
  
  <h1>skills</h1>
- Clicking on the icon will link you to the GitHub repository that utilizes the respective technology.
+ <div>Clicking on the icon will link you to the GitHub repository that utilizes the respective technology.</div>
  <div>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
  <a href="https://github.com/HyoJaDan/c_compiler" target="_blank">
