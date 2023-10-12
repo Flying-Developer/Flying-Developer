@@ -5,7 +5,7 @@
 
 <h1>About Me</h1>
 <h3>Note</h3>
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex flex-direction:row">
  <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
  </a>
@@ -42,5 +42,5 @@
 <div>
  <h3>Algorithm</h3>
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kopasd99"/>
- <img src="http://mazandi.herokuapp.com/api?handle=kopasd99&theme=dark"/>
 </div>
+
