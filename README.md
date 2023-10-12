@@ -25,7 +25,9 @@
  </a>
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ <a href="https://github.com/HyoJaDan" target="_black">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ </a>
  </div>
  
  <div>
@@ -65,7 +67,7 @@
   <a href="https://github.com/HyoJaDan/AI_racing" target="_blank">
    <img src="https://img.shields.io/badge/CNN-CC0000?style=for-the-badge&logo=CNN&logoColor=white"/>
   </a>
-   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
+   <a href="https://github.com/HyoJaDan/VGGNet" target="_blank">
    <img src="https://img.shields.io/badge/VGGNet-CC0000?style=for-the-badge&logo=CNN&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/Note-e650f7e3d24845e1ad87cb70bc45c2f0?pvs=4" target="_blank">
