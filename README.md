@@ -12,10 +12,10 @@
      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
  </a>
  <a href="https://open.kakao.com/o/sUnl2hMf">
-     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=white&logo=KakaoTalk"> 
  </a>
  <a href="https://www.instagram.com/kwonbi_">
-     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=WeChat&logoColor=07C160"> 
+     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=WeChat&logoColor=white"> 
  </a>
 </div>
 
